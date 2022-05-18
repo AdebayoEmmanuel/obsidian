@@ -1,5 +1,13 @@
 # **OBSIDIAN**
 We are a company of budding tech talents, learning and growing together by building live projects.
+<p align="left">
+<img src="https://user-images.githubusercontent.com/92952014/169014345-6578d3d2-d1da-4d64-b479-955e55035237.jpeg" 
+        alt="logo" 
+        width="400" 
+        height="300" 
+        style="display: block; margin: 0 auto" />
+</p>
+
 
 ## Current Project:
 <h2> The Banknote Tracker </h2>
